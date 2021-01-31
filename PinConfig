@@ -1,0 +1,22 @@
+**Pin configuration ArduinoUNO/NANO/MINI/Pro MINI
+
+**LCD**
+RS	= 9
+E	= 8
+D4 	= 7
+D5	= 6
+D6	= 5
+D7	= 4
+
+**KeyPad**
+R1	= 12
+R2	= 11
+R3	= A0
+R4	= A1
+C1	= A2
+C2	= A3
+C3	= A4
+
+Potensio	= A5
+Sensor		= 2
+Con. Motor	= 3
